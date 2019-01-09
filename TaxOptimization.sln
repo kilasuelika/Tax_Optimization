@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TaxOptimization", "TaxOptimization\TaxOptimization.vcxproj", "{224E8AE9-7B6A-4E28-A093-B6A770BBCB02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{224E8AE9-7B6A-4E28-A093-B6A770BBCB02}.Debug|x64.ActiveCfg = Debug|x64
+		{224E8AE9-7B6A-4E28-A093-B6A770BBCB02}.Debug|x64.Build.0 = Debug|x64
+		{224E8AE9-7B6A-4E28-A093-B6A770BBCB02}.Debug|x86.ActiveCfg = Debug|Win32
+		{224E8AE9-7B6A-4E28-A093-B6A770BBCB02}.Debug|x86.Build.0 = Debug|Win32
+		{224E8AE9-7B6A-4E28-A093-B6A770BBCB02}.Release|x64.ActiveCfg = Release|x64
+		{224E8AE9-7B6A-4E28-A093-B6A770BBCB02}.Release|x64.Build.0 = Release|x64
+		{224E8AE9-7B6A-4E28-A093-B6A770BBCB02}.Release|x86.ActiveCfg = Release|Win32
+		{224E8AE9-7B6A-4E28-A093-B6A770BBCB02}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55239A7F-E37D-4316-A56E-CADD3DD64581}
+	EndGlobalSection
+EndGlobal

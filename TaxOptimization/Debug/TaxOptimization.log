@@ -1,0 +1,10 @@
+﻿  TaxOptimization.cpp
+c1xx : warning C4199: two-phase name lookup is not supported for C++/CLI, C++/CX, or OpenMP; use /Zc:twoPhase-
+i:\c++\fint\taxoptimization\taxoptimization\taxoptimization.cpp(44): warning C4018: '<': signed/unsigned mismatch
+i:\c++\fint\taxoptimization\taxoptimization\taxoptimization.cpp(45): warning C4018: '<': signed/unsigned mismatch
+i:\c++\fint\taxoptimization\taxoptimization\taxoptimization.cpp(91): warning C4018: '<': signed/unsigned mismatch
+i:\c++\fint\taxoptimization\taxoptimization\taxoptimization.cpp(104): warning C4018: '<': signed/unsigned mismatch
+i:\c++\fint\taxoptimization\taxoptimization\taxoptimization.cpp(100): warning C4101: 'x': unreferenced local variable
+i:\c++\fint\taxoptimization\taxoptimization\taxoptimization.cpp(158): warning C4018: '<': signed/unsigned mismatch
+i:\c++\fint\taxoptimization\taxoptimization\taxoptimization.cpp(96): warning C4715: 'searchLevel': not all control paths return a value
+  TaxOptimization.vcxproj -> I:\C++\FINT\TaxOptimization\Debug\TaxOptimization.exe
